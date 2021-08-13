@@ -179,8 +179,6 @@ KBSWorld,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/KBS-HD-720p/playlist.m3u
 
 成龙_虎牙,http://tx.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.flv?wsSecret=8a829a8b4bb9e23ea02497df9fb5d97b&wsTime=610fc9db&uid=0&seqid=16283382362018188&ctype=tars_mobile&ver=1&t=103 
 
-周星驰_企鹅,http://3954-out.liveplay.myqcloud.com/live/3954_199681168.flv?bizid=3954&txSecret=33f12aded9cc6c96bb260e303b7ad7da&txTime=61173145 
-
 周星驰_虎牙,http://tx.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.flv?wsSecret=620993c8faf92b30dd5567bd55910680&wsTime=610fc9db&uid=0&seqid=16283382387192740&ctype=tars_mobile&ver=1&t=103 
 
 吴京_虎牙,http://tx.flv.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.flv?wsSecret=c41d53bf82a94cc3edc382082f88084b&wsTime=610fc9c8&uid=0&seqid=16283382389536472&ctype=tars_mobile&ver=1&t=103 
