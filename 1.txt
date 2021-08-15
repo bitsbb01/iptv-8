@@ -177,22 +177,23 @@ KBSWorld,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/KBS-HD-720p/playlist.m3u
 
 轮播,#genre#
 
-成龙_虎牙,http://tx.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.flv?wsSecret=8a829a8b4bb9e23ea02497df9fb5d97b&wsTime=610fc9db&uid=0&seqid=16283382362018188&ctype=tars_mobile&ver=1&t=103 
-
-周星驰_虎牙,http://tx.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.flv?wsSecret=620993c8faf92b30dd5567bd55910680&wsTime=610fc9db&uid=0&seqid=16283382387192740&ctype=tars_mobile&ver=1&t=103 
-
-吴京_虎牙,http://tx.flv.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.flv?wsSecret=c41d53bf82a94cc3edc382082f88084b&wsTime=610fc9c8&uid=0&seqid=16283382389536472&ctype=tars_mobile&ver=1&t=103 
-
-李连杰_虎牙,http://tx.flv.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.flv?wsSecret=6701caf9be142578743e65e0f4ce52e2&wsTime=610fc9c1&uid=0&seqid=16283382391970214&ctype=tars_mobile&ver=1&t=103 
-
-五福星系列_虎牙,http://tx.flv.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.flv?wsSecret=a6be4bb3447ac30130cae26975f5b4fd&wsTime=610fc9c6&uid=0&seqid=16283382405083448&ctype=tars_mobile&ver=1&t=103 
-
-沈腾_虎牙,http://tx.flv.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus.flv?wsSecret=0ea19d753bc1ec7d15155f1ce0657e5d&wsTime=610fc9d4&uid=0&seqid=16283382409885772&ctype=tars_mobile&ver=1&t=103 
-
-徐峥_虎牙,http://txdirect.flv.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.flv?wsSecret=9fbb3fa2223a946aa83ee07dcdc7370a&wsTime=610fc9d3&uid=0&seqid=16283382412064094&ctype=tars_mobile&ver=1&t=103 
-
-
-
+周星驰电影,http://zhibo.huafu666.net/32748/h1uya.php?id=11342412
+刘德华电影,http://zhibo.huafu666.net/32748/h1uya.php?id=11342424
+李连杰电影,http://zhibo.huafu666.net/32748/h1uya.php?id=11342390
+枪战片场,http://zhibo.huafu666.net/32748/h1uya.php?id=11601965
+邵氏影院,http://zhibo.huafu666.net/32748/d1ouyu.php?id=4246519
+动作片场,http://zhibo.huafu666.net/32748/d1ouyu.php?id=3928
+科幻片场,http://zhibo.huafu666.net/32748/d1ouyu.php?id=4332
+喜剧片场,http://zhibo.huafu666.net/32748/d1ouyu.php?id=9650887
+欧美大片,http://zhibo.huafu666.net/32748/d1ouyu.php?id=2793084
+爱情公寓,http://zhibo.huafu666.net/32748/h1uya.php?id=11336726
+陈翔六点半,http://zhibo.huafu666.net/32748/h1uya.php?id=cxldb
+埋堆堆1,http://zhibo.huafu666.net/32748/h1uya.php?id=23735126
+埋堆堆2,http://zhibo.huafu666.net/32748/h1uya.php?id=23740156
+古装剧,http://zhibo.huafu666.net/32748/h1uya.php?id=11602046
+动漫频道,http://zhibo.huafu666.net/32748/d1ouyu.php?id=7528160
+TVB悬疑剧,http://zhibo.huafu666.net/32748/h1uya.php?id=23865072
+美食制作,http://zhibo.huafu666.net/32748/h1uya.php?id=22306784
 
 iHOT,#genre#
 
