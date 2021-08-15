@@ -193,7 +193,13 @@ KBSWorld,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/KBS-HD-720p/playlist.m3u
 Running Man,http://dyscdnali1.douyucdn.cn/live/7298973rVquPyzCT.flv?uuid=
 韩国女团,http://dyscdnali1.douyucdn.cn/live/231464ruiASM3G05.flv?uuid=
 
+科幻電影,http://106.54.30.243/dl/YY.php?t=35133142
+經典懷舊,http://106.54.30.243/dl/YY.php?t=1353518742
+傑周潤發,http://106.54.30.243/dl/163cc.php?t=19681748
+歐美科幻,http://106.54.30.243/dl/YY.php?t=37988782
+
 iHOT,#genre#
 
 iHot爱科幻 8M1080,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/1/index.m3u8?fmt=ts2hls
+爱科幻,http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHot爱院线 8M1080,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/1/index.m3u8?fmt=ts2hls
