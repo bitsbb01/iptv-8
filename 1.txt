@@ -152,83 +152,6 @@ HBO HD,mitv://147.135.39.171:9906/5e59fae3000b3dac3b0c57342fd33ba0.ts
 now新闻台,p8p://user3.shusongw.mobi:16871/5e565c070000cb6f2d78cad5c040fa7b
 翡翠台,p8p://198.255.106.42:16871/5f378d9b0003c2e4417a53bb22d95282
  
-台灣,#genre#
-中视,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8#rtmp://59.124.75.153/sat/tv091
-中视新闻台,http://seb.sason.top/sc/zsxw_fhd.m3u8#http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
-中视经典,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
-中视菁采台,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
-华视,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8#rtmp://59.124.75.153/sat/tv111
-華視教育體育文化 HD,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
-華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8#http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
-國會頻道1,http://185.207.176.189:8080/channels/tw-504/playlist.m3u8
-國會頻道2,http://185.207.176.189:8080/channels/tw-505/playlist.m3u8
-台视,rtmp://59.124.75.153/sat/tv071
-台视新闻台,http://seb.sason.top/sc/tsxw_fhd.m3u8
-公视,http://sl.tmtv.me/20201226/ubtl.php?cid=361
-民视,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8#http://seb.sason.top/ptv/ftv.php?id=ms#http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8#rtmp://59.124.75.153/sat/tv051
-民视第一台,http://185.207.176.189:8080/channels/tw-301/playlist.m3u8#http://seb.sason.top/ptv/ftv.php?id=dy
-民视新闻台,http://seb.sason.top/sc/msxw_fhd.m3u8#https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://185.207.176.189:8080/channels/tw-302/playlist.m3u8
-民视台湾台,http://185.207.176.189:8080/channels/tw-304/playlist.m3u8#http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8#http://seb.sason.top/ptv/ftv.php?id=tw
-民视综艺台,http://seb.sason.top/ptv/ftv.php?id=zy
-民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
-民視旅游,http://seb.sason.top/ptv/ftv.php?id=ly
-原住民频道,http://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b4000.m3u8?cuac=guest&cref=http%3A%2F%2Ftitv.ipcf.org.tw%2F
-寰宇新闻,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
-★寰宇新聞台灣台,http://sl.tmtv.me/20201226/ubtl.php?cid=87
-中天綜合 HD,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
-中天新聞 HD,http://seb.sason.top/sc/ztxw_fhd.m3u8
-中天娱乐台,http://125.227.210.55:15796/VideoInput/play.ts
-东森新闻台,http://seb.sason.top/sc/dsxw_fhd.m3u8
-东森财经新闻台,http://seb.sason.top/sc/dscjxw_fhd.m3u8#rtmp://59.124.75.153:1935/sat/tv571
-东森超视,rtmp://59.124.75.153:1935/sat/tv771#rtmp://59.124.75.153/sat/tv771
-东森洋片,http://125.227.210.37:18685/VideoInput/play.ts
-TVBS,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
-TVBS新闻台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/tvbsnews.m3u8#rtmp://59.124.75.153/sat/tv552#rtmp://59.124.75.1530:1935/sat/tv551
-TVBS欢乐台,rtmp://59.124.75.153/sat/tv421#http://198.16.106.62:8278/tvbsgbk_twn/playlist.m3u8
-三立财经新闻台,http://seb.sason.top/sc/slinews_fhd.m3u8
-三立Live新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
-三立新闻台,http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
-三立台灣台,http://125.227.210.55:15714/VideoInput/play.ts
-壹电视新闻台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
-年代新聞,http://125.227.210.37:11055/VideoInput/play.ts
-非凡新闻台,http://125.227.210.37:15078/VideoInput/play.ts
-纬来综合台,http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
-纬来精采,http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
-纬来戏剧台,http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
-纬来电影台,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
-纬来体育台,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
-纬来日本台,http://198.16.106.62:8278/streams/d/videolandjapan_zero/playlist.m3u8
-卫视电影台,http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
-卫视卡式台,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
-大愛1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-DaAi,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
-龙祥时代,http://113.64.147.67:808/hls/38/index.m3u8
-爱尔达体育1,rtmp://59.124.75.153/sat/md051
-爱尔达综合,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-爱尔达影剧,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
-FOX體育,rtmp://59.124.75.153:1935/sat/tv731
-FOX2體育,rtmp://59.124.75.153/sat/tv741
-FOX HD,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
-FOX犯罪電影,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
-FOX動作電影,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
-FOX家庭電影,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
-HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
-Food亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
-美食星球,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
-BBC lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
-EVE,http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
-SLEVEN2,http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
-Nick,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
-Nick JR,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
-Babytv,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
-Cbeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
-Disneyxd,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-Disneyjr,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-HBO,http://198.16.106.62:8278/sundance_twn/playlist.m3u8?tid=M200000000000519104841&ct=18639&tsum=c5edc8fc8db4672fc2f3f7111c99ec7b
-TLC旅遊生活,http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
-韩国娱乐台,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
-
 Oversea,#genre#
 
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -270,21 +193,50 @@ KBSWorld,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/KBS-HD-720p/playlist.m3u
 
 全新影片,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
 周星驰,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
-林正英,http://dyscdnali1.douyucdn.cn/live/218859rUp5PN3Slh.flv?uuid=
 华语经典,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
-科幻电影,http://dyscdnali1.douyucdn.cn/live/4332rz1B1TLlheIC.flv?uuid=
-科幻动作,http://dyscdnali1.douyucdn.cn/live/252802rXrdW6hbDa.flv?uuid=
-欧美大片,http://dyscdnali1.douyucdn.cn/live/2793084r0tqEPxlE.flv?uuid=
-极致蓝光,http://dyscdnali1.douyucdn.cn/live/747764r3ei7lgxc5.flv?uuid=
-万万没想到,http://dyscdnali1.douyucdn.cn/live/9220456ren7VIQaF.flv?uuid=
-五分钟一部电影,http://dyscdnali1.douyucdn.cn/live/2758565rJJRPOZig.flv?uuid=
-动漫解说,http://dyscdnali1.douyucdn.cn/live/9527700rtRT35z5k.flv?uuid=
-新三国,http://dyscdnali1.douyucdn.cn/live/276200rfDdwNOU7H.flv?uuid=
 猫和老鼠,http://dyscdnali1.douyucdn.cn/live/7528160rXCwPshQQ.flv?uuid=
 Running Man,http://dyscdnali1.douyucdn.cn/live/7298973rVquPyzCT.flv?uuid=
 韩国女团,http://dyscdnali1.douyucdn.cn/live/231464ruiASM3G05.flv?uuid=
+
+电影1_斗鱼,http://dyscdnali1.douyucdn.cn/live/52787r8ZChaEsamQ.flv?uuid= 
+
+电影2_斗鱼,http://dyscdnali1.douyucdn.cn/live/7254536riuyQHxAL.flv?uuid= 
+
+电影5_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid= 
+
+电影8_斗鱼,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid= 
+
+电影10_斗鱼,http://dyscdnali1.douyucdn.cn/live/2519292r5XMjcUiA.flv?uuid= 
+
+电影14_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid= 
+
+电影15_斗鱼,http://dyscdnali1.douyucdn.cn/live/747764rfA3HOpaVl.flv?uuid= 
+
+电影16_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid= 
+
+电影18_斗鱼,http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid= 
+
+电影21_斗鱼,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid= 
+
+电影25_斗鱼,http://dyscdnali1.douyucdn.cn/live/315457rlhQDSs2yk.flv?uuid= 
+
+电影27_斗鱼,http://dyscdnali1.douyucdn.cn/live/248753rn5NROcDXx.flv?uuid= 
+
+电影30_斗鱼,http://dyscdnali1.douyucdn.cn/live/5423rDxsQdS0MAmk.flv?uuid= 
+
+电影35_斗鱼,http://dyscdnali1.douyucdn.cn/live/6763930rQ0VfA1mV.flv?uuid= 
+
+电影41_斗鱼,http://dyscdnali1.douyucdn.cn/live/323876reFBNcAGH9.flv?uuid= 
+
+电影44_斗鱼,http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid= 
+
+
+
 
 iHOT,#genre#
 
 iHot爱科幻 8M1080,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/1/index.m3u8?fmt=ts2hls
 iHot爱院线 8M1080,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/1/index.m3u8?fmt=ts2hls
+iHot爱奇谈 8M1080,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8 
+
+
