@@ -1,4 +1,6 @@
+
 央视频道,#genre#
+
 CCTV01-综合频道,http://39.135.34.150:8080/000000001000/1000000001000021973/1.m3u8?xtkg#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/1.m3u8#http://140.207.241.2:8080/live/program/live/cctv1hd/4000000/mnf.m3u8#http://39.135.32.29:6610/000000001000/1000000001000021973/1.m3u8?#http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8#http://117.156.28.119/PLTV/88888888/224/3221225691/index.m3u8#http://183.207.249.15/PLTV/3/224/3221225530/index.m3u8#http://lives.jnnews.tv/video/s10001-CCTV-1/index.m3u8#http://117.169.120.160:8080/live/cctv-1/1.m3u8
 CCTV02-财经频道,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226655/40417429.smil#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226230/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/1.m3u8
 CCTV03-综艺频道,http://39.135.34.150:8080/000000001000/1000000001000011218/1.m3u8?xtkg#http://39.135.32.29:6610/000000001000/1000000001000011218/1.m3u8?#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8#http://140.207.241.2:8080/live/program/live/cctv3hd/2300000/mnf.m3u8#http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8#http://117.169.120.160:8080/live/cctv-3/1.m3u8
@@ -15,15 +17,10 @@ CCTV13-新闻频道,http://39.135.34.150:8080/000000001000/1000000002000021303/1
 
 求索,#genre#
 
-求索一,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
-
-求索二,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
-
-求索三,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
-
-求索四,http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
-
-
+求索动物,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
+求索生活,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls
+求索科学,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
+求索纪录,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
 
 
 中国广播,#genre#
@@ -39,8 +36,9 @@ CRI NEWS Plus AM846,http://sk.cri.cn/am846.m3u8
 CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
 
 测试频道,#genre#
-凤凰中文台,https://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8#https://player.ggiptv.com/v/ifeng.php?id=2#rtmp://58.200.131.2:1935/livetv/fhzw#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8#https://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx
+
+凤凰中文台,http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#https://player.ggiptv.com/v/ifeng.php?id=2#rtmp://58.200.131.2:1935/livetv/fhzw#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
+凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1#http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8#https://d158f3mdhc5kf4.cloudfront.net/p1_cbr_lo_720p.m3u8#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx
 
 国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
 国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
@@ -50,8 +48,9 @@ CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
 动物星球,vjms://153.99.180.75:8500:5021/live/cid=3
 HBO HD,mitv://147.135.39.171:9906/5e59fae3000b3dac3b0c57342fd33ba0.ts
 中天新闻,p8p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95.ts
+中天新闻,p8p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
-寰宇新闻,
+寰宇新闻,p8p://0198.02686.cc:16871/5f37f9150000be1a431e27852b683e83
 now新闻台,p8p://user3.shusongw.mobi:16871/5e565c070000cb6f2d78cad5c040fa7b
 翡翠台,p8p://198.255.106.42:16871/5f378d9b0003c2e4417a53bb22d95282
  
@@ -93,6 +92,8 @@ FOXHD,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 Running Man,http://dyscdnali1.douyucdn.cn/live/7298973rVquPyzCT.flv?uuid=
 韩国女团,http://dyscdnali1.douyucdn.cn/live/231464ruiASM3G05.flv?uuid=
 
+电影1_斗鱼,#genre#
+
 电影1_斗鱼,http://dyscdnali1.douyucdn.cn/live/52787r8ZChaEsamQ.flv?uuid= 
 
 电影2_斗鱼,http://dyscdnali1.douyucdn.cn/live/7254536riuyQHxAL.flv?uuid= 
@@ -130,9 +131,6 @@ Running Man,http://dyscdnali1.douyucdn.cn/live/7298973rVquPyzCT.flv?uuid=
 
 iHOT,#genre#
 
-iHot爱科幻 8M1080,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/1/index.m3u8?fmt=ts2hls
-iHot爱院线 8M1080,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/1/index.m3u8?fmt=ts2hls
-iHot爱奇谈 8M1080,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8 
 
 
 斗鱼,#genre# 
