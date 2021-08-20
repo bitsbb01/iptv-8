@@ -36,8 +36,16 @@ CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
 
 测试频道,#genre#
 
-凤凰中文台,http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#https://player.ggiptv.com/v/ifeng.php?id=2#rtmp://58.200.131.2:1935/livetv/fhzw#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1#http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8#https://d158f3mdhc5kf4.cloudfront.net/p1_cbr_lo_720p.m3u8#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx
+凤凰中文,http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
+凤凰中文,http://223.110.245.138/PLTV/3/224/3221226922/index.m3u8
+凤凰中文,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
+
+凤凰资讯,http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
+凤凰资讯,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+凤凰资讯,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+凤凰资讯,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8?time=1615209027505
+凤凰资讯,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8?time=1615209063576
+凤凰资讯,http://223.82.250.72/live/fhzixun/1.m3u8
 
 国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
 国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
@@ -55,22 +63,15 @@ now新闻台,p8p://user3.shusongw.mobi:16871/5e565c070000cb6f2d78cad5c040fa7b
  
 Oversea,#genre#
 
-BBC News,http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
+
 Channel News Asia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Fox News,http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 
-
-
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8#https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
-红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8#http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-狗狗宠物,http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 彭博财经,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
 NHK·华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 NHK·国际频道,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-
-
-
 
 Outdoor Channel,https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 National Geographic,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
@@ -79,8 +80,6 @@ BBCEarth,https://livecdn.fptplay.net/qnetlive/bbcearth_2000.stream/chunklist.m3u
 Bloomberg,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BLOOMBERG-SD-720p/playlist.m3u8
 DWNews，https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
 FOXHD,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-
-
 
 轮播,#genre#
 
