@@ -1,8 +1,5 @@
 
 央视频道,#genre#
-纯享4K,http://39.135.140.198:6610/PLTV/88888910/224/3221225786/index.m3u8 
-
-CCTV4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8 
 
 CCTV1,http://39.135.140.198:6610/PLTV/88888910/224/3221225642/index.m3u8 
 
@@ -37,21 +34,6 @@ CCTV14,http://39.135.140.198:6610/PLTV/88888910/224/3221225639/index.m3u8
 CCTV15,http://39.135.140.198:6610/PLTV/88888910/224/3221225641/index.m3u8 
 
 CCTV17,http://39.135.140.198:6610/PLTV/88888910/224/3221225908/index.m3u8 
-
-
-求索,#genre#
-
-求索纪录,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000144&playtoken=ABCDEFGH&auth=no 
-
-求索纪录,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/1/index.m3u8?fmt=ts2hls 
-
-求索动物,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/1/index.m3u8?fmt=ts2hls 
-
-求索生活,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/1/index.m3u8?fmt=ts2hls 
-
-求索科学,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/1/index.m3u8?fmt=ts2hls 
-
-
 
 中国广播,#genre#
 
@@ -120,6 +102,20 @@ Bloomberg,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BLOOMBERG-SD-720p/playl
 DWNews，https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
 FOXHD,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 
+
+iHOT,#genre#
+
+iHot爱科幻,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/1/index.m3u8?fmt=ts2hls
+爱奇谈,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8 
+
+
+求索,#genre#
+
+求索动物,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/1/index.m3u8?fmt=ts2hls
+求索生活,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/1/index.m3u8?fmt=ts2hls
+求索科学,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/1/index.m3u8?fmt=ts2hls
+求索纪录,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/1/index.m3u8?fmt=ts2hls
+
 轮播,#genre#
 
 全新影片,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
@@ -162,15 +158,6 @@ Running Man,http://dyscdnali1.douyucdn.cn/live/7298973rVquPyzCT.flv?uuid=
 电影41_斗鱼,http://dyscdnali1.douyucdn.cn/live/323876reFBNcAGH9.flv?uuid= 
 
 电影44_斗鱼,http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid= 
-
-
-
-
-iHOT,#genre#
-
-爱奇谈,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8 
-
-
 
 斗鱼,#genre# 
 
