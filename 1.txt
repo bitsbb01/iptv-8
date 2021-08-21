@@ -111,7 +111,7 @@ iHOT,#genre#
 
 iHot爱奇谈,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8 
 iHOT爱科幻,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/1/index.m3u8?fmt=ts2hls
-
+iHOT爱院线,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/1/index.m3u8?fmt=ts2hls
 
 求索,#genre#
 
