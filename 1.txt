@@ -66,10 +66,8 @@ CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
 
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8 
 
-凤凰中文 10M720,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
-凤凰资讯 10M720,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
-
-
+凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
 
 探索频道,http://hdtv.lzu6.edu.cn/hls/discovery.m3u8#http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/discovery.m3u8 
 
