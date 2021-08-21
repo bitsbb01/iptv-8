@@ -42,7 +42,8 @@ CRI 南海之声,http://sk.cri.cn/nhzs.m3u8CRI
 轻松调频 FM91.5,http://sk.cri.cn/915.m3u8
 CRI 环球资讯广播 FM90.5,http://sk.cri.cn/905.m3u8
 英语资讯广播 China Plus Radio,http://cnlive.cnr.cn/hls/yyzxgb.m3u8
-CRI 中文环球广播,http://sk.cri.cn/hyhq.m3u8
+CRI 中文环球广播,http://sk.cri.cn/hyhq.m3u8CRI 中文环球广播,http://sk.cri.cn/hyhq.m3u8
+
  
 CRI NEWS Plus AM846,http://sk.cri.cn/am846.m3u8
 CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
