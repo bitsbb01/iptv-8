@@ -20,7 +20,7 @@ National Geographic,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunkl
 
 FOXHD,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 
-测试频道,#genre#
+News,#genre#
 
 凤凰中文,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/index.m3u8 
 
@@ -46,14 +46,17 @@ FOXHD,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 
 国家地理,http://hdtv.lzu6.edu.cn/hls/natlgeo.m3u8#http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/natlgeo.m3u8 
 
-动物星球,vjms://153.99.180.75:8500:5021/live/cid=3
-HBO HD,mitv://147.135.39.171:9906/5e59fae3000b3dac3b0c57342fd33ba0.ts
 中天新闻,p8p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95.ts
 
-中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
 寰宇新闻,p8p://0198.02686.cc:16871/5f37f9150000be1a431e27852b683e83
+
 now新闻台,p8p://user3.shusongw.mobi:16871/5e565c070000cb6f2d78cad5c040fa7b
+
 翡翠台,p8p://198.255.106.42:16871/5f378d9b0003c2e4417a53bb22d95282
+
+动物星球,vjms://153.99.180.75:8500:5021/live/cid=3
+
+HBO HD,mitv://147.135.39.171:9906/5e59fae3000b3dac3b0c57342fd33ba0.ts
 
 中国广播,#genre#
 
@@ -63,16 +66,13 @@ CRI 南海之声,http://sk.cri.cn/nhzs.m3u8CRI
 CRI 环球资讯广播 FM90.5,http://sk.cri.cn/905.m3u8
 英语资讯广播 China Plus Radio,http://cnlive.cnr.cn/hls/yyzxgb.m3u8
 CRI 中文环球广播,http://sk.cri.cn/hyhq.m3u8CRI 中文环球广播,http://sk.cri.cn/hyhq.m3u8
-
- 
 CRI NEWS Plus AM846,http://sk.cri.cn/am846.m3u8
 CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
 
 
- iHOT,#genre#
+iHOT,#genre#
 
 iHot爱奇谈,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8 
-iHOT爱科幻,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/1/index.m3u8?fmt=ts2hls
 
 求索,#genre#
 
