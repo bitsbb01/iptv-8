@@ -2,13 +2,7 @@ Oversea,#genre#
 
 ABC·新闻频道,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8 
 Channel News Asia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-CBN News,https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
-Fox News,http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 News·Max,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8 
-UK: Time Line (720p) ,https://timeline-samsung-uk.amagi.tv/playlist.m3u8
-Times Now HD,https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8?checkedby:iptvcat.com
-
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8#https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 彭博财经,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
@@ -19,12 +13,7 @@ Outdoor Channel,https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_
 National Geographic,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 FOXHD,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 
-凤凰电影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
-凤凰资讯,http://218.202.220.2:5000/nn_live.ts?id=FHZX
-凤凰中文,http://218.202.220.2:5000/nn_live.ts?id=FHZW
-STARTV,http://218.202.220.2:5000/nn_live.ts?id=STARTV
-HBO,http://218.202.220.2:5000/nn_live.ts?id=HBO
-CNN,http://218.202.220.2:5000/nn_live.ts?id=CNN
+
 
 News,#genre#
 
@@ -47,10 +36,6 @@ News,#genre#
 凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 
 凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
-
-探索频道,http://hdtv.lzu6.edu.cn/hls/discovery.m3u8#http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/discovery.m3u8 
-
-国家地理,http://hdtv.lzu6.edu.cn/hls/natlgeo.m3u8#http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/natlgeo.m3u8 
 
 中天新闻,p8p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95.ts
 
@@ -97,7 +82,7 @@ iHot爱奇谈,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 全新影片,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
 周星驰,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
 华语经典,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
-猫和老鼠,http://dyscdnali1.douyucdn.cn/live/7528160rXCwPshQQ.flv?uuid=
+
 Running Man,http://dyscdnali1.douyucdn.cn/live/7298973rVquPyzCT.flv?uuid=
 韩国女团,http://dyscdnali1.douyucdn.cn/live/231464ruiASM3G05.flv?uuid=
 
