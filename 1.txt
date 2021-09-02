@@ -226,32 +226,5 @@ Running Man,http://dyscdnali1.douyucdn.cn/live/7298973rVquPyzCT.flv?uuid=
 
 斗鱼75,http://dyscdnali1.douyucdn.cn/live/6655271rxmF2Pias.flv?uuid= 
 
-B站,#genre# 
-
-B站16,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/749935/live_456924462_14930225.m3u8 
-
-B站68,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/246398/live_523065517_16447191.m3u8 
-
-B站17,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/740479/live_381718124_59580738.m3u8 
-
-B站18,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/225578/live_19358082_1399772.m3u8 
-
-B站20,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/914877/live_334056_8894439.m3u8 
-
-B站46,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/666566/live_298204611_4339573.m3u8 
-
-B站21,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/324165/live_97065163_17925468.m3u8 
-
-B站22,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/957700/live_250188964_3487758.m3u8 
-
-B站23,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/353342/live_7981914_1286387.m3u8 
-
-B站24,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/967316/live_403636186_18251525.m3u8 
-
-B站75,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/913445/live_39828646_63525471.m3u8 
-
-B站25,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/160899/live_362963326_14864388.m3u8 
-
-
 
 
