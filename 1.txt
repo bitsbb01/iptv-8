@@ -25,6 +25,7 @@ NewsNet (480p),http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlis
 NHK·华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 NHK·国际频道,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 Sky News,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+    
 TV 5,https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
 WBRZ 2,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 
