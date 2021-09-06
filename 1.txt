@@ -77,9 +77,6 @@ CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
 iHOT,#genre#
 
 iHot爱奇谈,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8
-爱院线,http://ccav.smymi.com:4000/rtp/239.93.42.11:5140
-爱喜剧,http://ccav.smymi.com:4000/rtp/239.93.42.9:5140
-爱科幻,http://ccav.smymi.com:4000/rtp/239.93.42.10:5140
 
 求索,#genre#
 
