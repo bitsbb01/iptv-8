@@ -1,5 +1,6 @@
 Oversea,#genre#
 
+ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 Aljazeera News SD,https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 Aljazeera News HD,https://live-hls-web-aje.getaj.net/AJE/02.m3u8#https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 BBC News (480p),http://www.filmon.com/vr-streams/27.high/playlist.m3u8
@@ -31,8 +32,10 @@ WBRZ 2,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/ch
 
 NASA TV Media,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 NASA TV Public,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
 Outdoor Channel,https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 National Geographic,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+
 FOXHD,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 
 News,#genre#
@@ -50,18 +53,16 @@ News,#genre#
 凤凰资讯,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8 
 
 
-
+凤凰资讯台,p8p://45.92.126.18:9906/604354a700001c2706f579cae17a48f1.ts
+凤凰中文台,p8p://45.92.126.18:9906/604355380000ff4606f7b06cbafec3a5.ts
 中天新闻,p8p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95.ts
-
-寰宇新闻,p8p://0198.02686.cc:16871/5f37f9150000be1a431e27852b683e83
-
-now新闻台,p8p://user3.shusongw.mobi:16871/5e565c070000cb6f2d78cad5c040fa7b
-
-翡翠台,p8p://198.255.106.42:16871/5f378d9b0003c2e4417a53bb22d95282
-
-动物星球,vjms://153.99.180.75:8500:5021/live/cid=3
-
-HBO HD,mitv://147.135.39.171:9906/5e59fae3000b3dac3b0c57342fd33ba0.ts
+寰宇新闻台,p8p://45.92.126.18:9906/60434bdc0009a41d06d32342bef082c3.ts
+BBC Earth,p8p://45.92.126.18:9906/6044049e000eb7a609a4da5fcd30cc43.ts
+TV5 Monde,p8p://45.92.126.18:9906/6046414f0008aa040882014b96694a71.ts
+CNN Internationa,p8p://45.92.126.18:9906/604641f8000e2252088496d9f8a5ad44.ts
+BBC WORLD NEWS,p8p://45.92.126.18:9906/60464299000eba8708870be862b68160.ts
+ChannelNewsAsia,p8p://45.92.126.18:9906/604643330003bf3e088962a9042b90c4.ts
+CNBC Asia,p8p://45.92.126.18:9906/604643c100068849088b8e0fef813f1c.ts
 
 中国广播,#genre#
 
