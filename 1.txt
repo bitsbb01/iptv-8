@@ -57,6 +57,7 @@ News,#genre#
 凤凰中文台,p8p://45.92.126.18:9906/604355380000ff4606f7b06cbafec3a5.ts
 中天新闻,p8p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95.ts
 寰宇新闻台,p8p://45.92.126.18:9906/60434bdc0009a41d06d32342bef082c3.ts
+寰宇新聞,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 BBC Earth,p8p://45.92.126.18:9906/6044049e000eb7a609a4da5fcd30cc43.ts
 TV5 Monde,p8p://45.92.126.18:9906/6046414f0008aa040882014b96694a71.ts
 CNN Internationa,p8p://45.92.126.18:9906/604641f8000e2252088496d9f8a5ad44.ts
@@ -97,16 +98,13 @@ iHot爱奇谈,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 求索动物,http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 
 
-轮播,#genre#
+斗鱼,#genre#
 
 全新影片,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
 周星驰,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
 华语经典,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
-
 Running Man,http://dyscdnali1.douyucdn.cn/live/7298973rVquPyzCT.flv?uuid=
 韩国女团,http://dyscdnali1.douyucdn.cn/live/231464ruiASM3G05.flv?uuid=
-
-斗鱼,#genre#
 
 1,http://dyscdnali1.douyucdn.cn/live/52787r8ZChaEsamQ.flv?uuid=
 6,http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
@@ -122,6 +120,83 @@ Running Man,http://dyscdnali1.douyucdn.cn/live/7298973rVquPyzCT.flv?uuid=
 42,http://dyscdnali1.douyucdn.cn/live/206858rtesHKjl.flv?uuid=
 51,http://dyscdnali1.douyucdn.cn/live/7537296rTdKDixQ0.flv?uuid=
 57,http://dyscdnali1.douyucdn.cn/live/7459925rLzyH2qb0.flv?uuid=
+
+auney,#genre#
+
+周星驰,http://vip.auney.cn/api/huya.php?id=11342412
+林正英,http://vip.auney.cn/api/huya.php?id=11342421
+成龙,http://vip.auney.cn/api/huya.php?id=11342386
+李连杰,http://vip.auney.cn/api/huya.php?id=11342390
+赌片,http://vip.auney.cn/api/huya.php?id=11342399
+黑帮,http://vip.auney.cn/api/huya.php?id=11336719
+吴京,http://vip.auney.cn/api/huya.php?id=11602045
+科幻动作,http://vip.auney.cn/api/huya.php?id=11352964
+国产喜剧,http://vip.auney.cn/api/huya.php?id=11602044
+丧尸,http://vip.auney.cn/api/huya.php?id=11352962
+五福星,http://vip.auney.cn/api/huya.php?id=11282233
+甄子丹,http://vip.auney.cn/api/huya.php?id=11352935
+卧底警匪,http://vip.auney.cn/api/huya.php?id=11352886
+周润发,http://vip.auney.cn/api/huya.php?id=11342387
+变形金刚,http://vip.auney.cn/api/huya.php?id=11342433
+沈腾,http://vip.auney.cn/api/huya.php?id=11601968
+盗墓系列,http://vip.auney.cn/api/huya.php?id=11352913
+洪金宝,http://vip.auney.cn/api/huya.php?id=11342427
+灾难电影,http://vip.auney.cn/api/huya.php?id=11352871
+终结者电影,http://vip.auney.cn/api/huya.php?id=11352979
+徐峥,http://vip.auney.cn/api/huya.php?id=11602043
+漫威,http://vip.auney.cn/api/huya.php?id=11602075
+刘德华,http://vip.auney.cn/api/huya.php?id=11342424
+韩国犯罪动作,http://vip.auney.cn/api/huya.php?id=11601956
+速度与激情,http://vip.auney.cn/api/huya.php?id=11352949
+香港恐怖,http://vip.auney.cn/api/huya.php?id=11601960
+异性怪物,http://vip.auney.cn/api/huya.php?id=11352938
+历年贺岁档,http://vip.auney.cn/api/huya.php?id=11601986
+杰森斯坦森,http://vip.auney.cn/api/huya.php?id=11336572
+港产搞笑,http://vip.auney.cn/api/huya.php?id=11342423
+复仇者联盟,http://vip.auney.cn/api/huya.php?id=11602041
+惊悚,http://vip.auney.cn/api/huya.php?id=11342432
+黑帮电影,http://vip.auney.cn/api/huya.php?id=11342419
+史诗战争,http://vip.auney.cn/api/huya.php?id=11342435
+丧尸2,http://vip.auney.cn/api/huya.php?id=11342422
+粤语港片,http://vip.auney.cn/api/huya.php?id=11352894
+钢铁侠,http://vip.auney.cn/api/huya.php?id=11602034
+机甲电影,http://vip.auney.cn/api/huya.php?id=11352876
+猎奇电影,http://vip.auney.cn/api/huya.php?id=11601970
+韩国电影,http://vip.auney.cn/api/huya.php?id=11352880
+欧美特工,http://vip.auney.cn/api/huya.php?id=11602069
+加勒比海盗,http://vip.auney.cn/api/huya.php?id=11602046
+指环王,http://vip.auney.cn/api/huya.php?id=11352916
+哈利波特,http://vip.auney.cn/api/huya.php?id=11352906
+电锯惊魂,http://vip.auney.cn/api/huya.php?id=11342437
+最佳拍档,http://vip.auney.cn/api/huya.php?id=11342397
+金庸电影,http://vip.auney.cn/api/huya.php?id=11352897
+热血高校,http://vip.auney.cn/api/huya.php?id=11342402
+许氏电影,http://vip.auney.cn/api/huya.php?id=11602033
+第一滴血,http://vip.auney.cn/api/huya.php?id=11352934
+小丑电影,http://vip.auney.cn/api/huya.php?id=11352941
+外国电影,http://vip.auney.cn/api/huya.php?id=11342428
+游戏改编电影,http://vip.auney.cn/api/huya.php?id=10871113
+奥斯卡提名,http://vip.auney.cn/api/huya.php?id=11352969
+黑夜传说,http://vip.auney.cn/api/huya.php?id=11352881
+开心鬼,http://vip.auney.cn/api/huya.php?id=11342388
+香港霸王花,http://vip.auney.cn/api/huya.php?id=11352909
+爱情公寓,http://vip.auney.cn/api/huya.php?id=11336726
+武林外传,http://vip.auney.cn/api/huya.php?id=11352915
+插翅难逃,http://vip.auney.cn/api/huya.php?id=11352940
+神探狄仁杰,http://vip.auney.cn/api/huya.php?id=11352958
+家有儿女,http://vip.auney.cn/api/huya.php?id=11352872
+少年包青天,http://vip.auney.cn/api/huya.php?id=11342393
+好先生,http://vip.auney.cn/api/huya.php?id=11352973
+火蓝刀锋,http://vip.auney.cn/api/huya.php?id=11336592
+知否知否,http://vip.auney.cn/api/huya.php?id=11602068
+士兵突击,http://vip.auney.cn/api/huya.php?id=11342430
+搞笑一家人,http://vip.auney.cn/api/huya.php?id=11601978
+少帅,http://vip.auney.cn/api/huya.php?id=11342414
+生活大爆炸,http://vip.auney.cn/api/huya.php?id=11352959
+卫国无敌,http://vip.auney.cn/api/huya.php?id=11336578
+大宅门,http://vip.auney.cn/api/huya.php?id=11601982
+鹿鼎记陈小春,http://vip.auney.cn/api/huya.php?id=11352910
+炊事班的故事,http://vip.auney.cn/api/huya.php?id=11352895
 
 
 
