@@ -55,9 +55,13 @@ News,#genre#
 
 凤凰资讯台,p8p://45.92.126.18:9906/604354a700001c2706f579cae17a48f1.ts
 凤凰中文台,p8p://45.92.126.18:9906/604355380000ff4606f7b06cbafec3a5.ts
-中天新闻,p8p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95.ts
+
+中天新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twztxw
+
+寰宇新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhyxw
+寰宇新聞,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8  
 寰宇新闻台,p8p://45.92.126.18:9906/60434bdc0009a41d06d32342bef082c3.ts
-寰宇新聞,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
+
 BBC Earth,p8p://45.92.126.18:9906/6044049e000eb7a609a4da5fcd30cc43.ts
 TV5 Monde,p8p://45.92.126.18:9906/6046414f0008aa040882014b96694a71.ts
 CNN Internationa,p8p://45.92.126.18:9906/604641f8000e2252088496d9f8a5ad44.ts
@@ -82,19 +86,12 @@ iHot爱奇谈,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 
 求索,#genre#
 
-求索动物HD,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8 
-
-求索生活HD,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8 
-
-求索科学HD,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8 
-
-求索纪录HD,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 求索纪录,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
-
+求索纪录,http://125.210.152.21:9120/live/QSKX.m3u8
 求索生活,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
-
+求索生活,http://125.210.152.21:9120/live/QSDW.m3u8
 求索科学,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
-
+求索科学,http://125.210.152.21:9120/live/QSSH.m3u8
 求索动物,http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 
 
