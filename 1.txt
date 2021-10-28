@@ -56,6 +56,10 @@ News,#genre#
 凤凰资讯台,p8p://45.92.126.18:9906/604354a700001c2706f579cae17a48f1.ts
 凤凰中文台,p8p://45.92.126.18:9906/604355380000ff4606f7b06cbafec3a5.ts
 
+翡翠台,https://p2.weizan.cn/1646497941/173900819035303676/live.m3u8
+无线新闻,https://p2.weizan.cn/1646497941/113158785015619765/live.m3u8
+有线新闻,https://p2.weizan.cn/1646497941/614105386721937651/live.m3u8
+
 中天新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twztxw
 
 寰宇新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhyxw
@@ -87,11 +91,11 @@ iHot爱奇谈,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 求索,#genre#
 
 求索纪录,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
-求索纪录,http://125.210.152.21:9120/live/QSKX.m3u8
+
 求索生活,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
-求索生活,http://125.210.152.21:9120/live/QSDW.m3u8
+
 求索科学,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
-求索科学,http://125.210.152.21:9120/live/QSSH.m3u8
+
 求索动物,http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 
 
@@ -103,16 +107,15 @@ iHot爱奇谈,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 Running Man,http://dyscdnali1.douyucdn.cn/live/7298973rVquPyzCT.flv?uuid=
 韩国女团,http://dyscdnali1.douyucdn.cn/live/231464ruiASM3G05.flv?uuid=
 
-1,http://dyscdnali1.douyucdn.cn/live/52787r8ZChaEsamQ.flv?uuid=
-6,http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
+
 7,http://dyscdnali1.douyucdn.cn/live/747764rfA3HOpaVl.flv?uuid=
 8,http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
 9,http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
 10,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
 14,http://dyscdnali1.douyucdn.cn/live/6763930rQ0VfA1mV.flv?uuid=
-15,http://dyscdnali1.douyucdn.cn/live/323876reFBNcAGH9.flv?uuid=
+
 16,http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
-25,http://dyscdnali1.douyucdn.cn/live/4282654rqJ3gI94v.flv?uuid=
+
 30,http://dyscdnali1.douyucdn.cn/live/6546908r8MNy5hGg.flv?uuid=
 42,http://dyscdnali1.douyucdn.cn/live/206858rtesHKjl.flv?uuid=
 51,http://dyscdnali1.douyucdn.cn/live/7537296rTdKDixQ0.flv?uuid=
